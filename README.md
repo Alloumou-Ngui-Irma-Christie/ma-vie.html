@@ -51,7 +51,7 @@
 <h4>Je me présente </h4>
 			<p>Je suis mlle Irma-Christie ALLOUMOU-NGUI, 25ans; je suis diplémée en <strong>Management et Stratégies </strong> niveau LICENCE. <br/>
 Jeune fille toujours à l'écoute de ceux qui l'entoure. Ayant un esprit d'équipe, je m'adapte à toutes situations présentes. Aimant tout ce qui a trait au web et à ses différents métiers, je voudrais contribuer de part ma formation au sein de cette école, à être parmi ceux-là qui vont révolutionner le monde dans lequel nous vivons. <br/>
-			L'univers du numrique m'a toujours intriqué, de la conception des sites, réseaux sociaux et l'envers du décormais galement sa mise n hbergement.	'
+			L'univers du numrique m'a toujours intriqué, de la conception des sites, réseaux sociaux et l'envers du décor mais également sa mise n hbergement.	'
 		</p>
 </body>
 <body>	
