@@ -4,10 +4,10 @@
   <p></p>
    			 <meta>
              <link href="file:///C|/Users/GINGO/Documents/Fax/Nouveau dossier/style.css" rel="stylesheet" type="text/css">
-			 <TITLE>Ma pr�sentation</title> 
+			 <TITLE>Ma présentation</title> 
 </head>		
 <body>
-		<h3 style="color: #994F76;">Mon identit� </h3>
+		<h3 style="color: #994F76;">Mon identité </h3>
 		
 			<p>ALLOUMOU-NGUI Irma-Christie </br>
 	 062062124/074363659 </br>
@@ -16,28 +16,28 @@
 </p>
 <div></div>
 		<p>
-		Photo d'identit� :<br />
+		Photo d'identité :<br />
 		<img src="bureau/page web html et css/images/photo.jpg" alt="photo" />
 		</p>
 		
 			<h3 style="color: #994F76;">Mon parcours scolaire </h3>
 		
-		<p>Institut Sup�rieur d'Ing�nierie 
-	Licence en Management et Strat�gies <br/>
+		<p>Institut Supérieur d'Ingénierie 
+	Licence en Management et Stratégies <br/>
 	2017-2018 </p>
-		<p>Lyc�e et Coll�ge Notre Dame de Quaben <br/>
-			Baccalaur�at <br/>
+		<p>Lycée et Collège Notre Dame de Quaben <br/>
+			Baccalauréat <br/>
 			2013-2014
 		</p>
 <body>
-			<h3 style="color: #994F76">Exp�riences Professionnelles</h3>
+			<h3 style="color: #994F76">Expériences Professionnelles</h3>
 		
-		<p>ONG Ogou�e Labs <br/>
-	 Stagiaire marketing et communication dans le cadre de la cr�ation d'une start up<br/>
+		<p>ONG Ogouée Labs <br/>
+	 Stagiaire marketing et communication dans le cadre de la création d'une start up<br/>
 		Juillet-Octobre 2016 </p>
 
-		<p>Lirairie Id�al+ <br/>
-		Secr�taire bureautique <br/>
+		<p>Lirairie Idéal+ <br/>
+		Secrétaire bureautique <br/>
 			Mars-Avril 2019 </p>
 </body>
 			
@@ -45,13 +45,13 @@
 		<h3 style="color: #994F76">BIOGRAPHIE</h3>
 		
 		<p>
-			<strong>Vid�o de pr�sentation </strong>
+			<strong>Vidéo de présentation </strong>
 			<video 
 			
-<h4>Je me pr�sente </h4>
-			<p>Je suis mlle Irma-Christie ALLOUMOU-NGUI, 25ans; je suis dipl�m�e en <strong>Management et Strat�gies </strong> niveau LICENCE. <br/>
-Jeune fille toujours � l'�coute de ceux qui l'entoure. Ayant un esprit d'�quipe, je m'adapte � toutes situations pr�sentes. Aimant tout ce qui a trait au web et � ses diff�rents m�tiers, je voudrait contribuer de part ma formation au sein de cette �cole, � �tre parmi ceux-l� qui vont r�volutionner le monde dans lequel nous vivons. <br/>
-			L'univers du numrique m'a toujours intriqué, de la conception des sites, réseaux sociaux et l'envers du décormais galement sa mise n hbergement.	
+<h4>Je me présente </h4>
+			<p>Je suis mlle Irma-Christie ALLOUMOU-NGUI, 25ans; je suis diplémée en <strong>Management et Stratégies </strong> niveau LICENCE. <br/>
+Jeune fille toujours à l'écoute de ceux qui l'entoure. Ayant un esprit d'équipe, je m'adapte à toutes situations présentes. Aimant tout ce qui a trait au web et à ses différents métiers, je voudrais contribuer de part ma formation au sein de cette école, à être parmi ceux-là qui vont révolutionner le monde dans lequel nous vivons. <br/>
+			L'univers du numrique m'a toujours intriqué, de la conception des sites, réseaux sociaux et l'envers du décormais galement sa mise n hbergement.	'
 		</p>
 </body>
 <body>	
@@ -63,7 +63,7 @@ Jeune fille toujours � l'�coute de ceux qui l'entoure. Ayant un esprit d'�
 </body>
 <body>
 			
-		<h3 style="color: #994F76">Centres d'int�r�ts </h3>
+		<h3 style="color: #994F76">Centres d'intérêts </h3>
 					
 					<p>La lecture, le chant classique et contemporain, la musique classique, moderne et tradi-moderne </p>
 		
@@ -73,9 +73,9 @@ Jeune fille toujours � l'�coute de ceux qui l'entoure. Ayant un esprit d'�
 		
 		  <audio src="video et audio" href="Maid with the Flaxen Hair.mp3" controls autoplay loop />
 		
-		<p>Photo de mon h�ro pr�f�r� et son nom </p>
+		<p>Photo de mon héro préféré et son nom </p>
 
-	<p>
+	        <p>Oliver Ngoma </p>
 		<img ="controls" />		
 </p>
 
